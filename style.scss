@@ -1,3 +1,11 @@
+$brand-primary:         #911146 !default;
+$brand-success:         #d90000 !default;
+$brand-info:            #ff2d00 !default;
+$brand-warning:         #ff8c00 !default;
+$brand-danger:          #04756f !default;
+
+@import "bootstrap-sass-3.3.6/assets/stylesheets/bootstrap";
+
 body {
   padding-top: 70px;
   padding-bottom: 30px;
